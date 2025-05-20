@@ -119,6 +119,9 @@ int main()
             cout << endl;
             }
             break;
+        case 4: 
+            cout << "Invalid Program." << endl;
+            break;
         
         
         
